@@ -10,7 +10,7 @@ const Banner = (props) => (
             <div className="content">
                 <p>Front End Developer</p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Projects</a></li>
+                    <li><a href="#two" className="button next scrolly">Contact</a></li>
                 </ul>
             </div>
         </div>
