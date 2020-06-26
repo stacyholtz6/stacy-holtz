@@ -65,7 +65,7 @@ export default () => (
               href="https://weather-react-co.herokuapp.com/"
               target="_blank"></a>
           </article>
-          <article
+          {/* <article
             style={{ backgroundImage: `url('/static/images/pic05.jpg')` }}
           >
             <header className="major">
@@ -75,8 +75,8 @@ export default () => (
             <Link href="/landing">
               <a className="link primary"></a>
             </Link>
-          </article>
-          <article
+          </article> */}
+          {/* <article
             style={{ backgroundImage: `url('/static/images/pic06.jpg')` }}
           >
             <header className="major">
@@ -86,9 +86,9 @@ export default () => (
             <Link href="/landing">
               <a className="link primary"></a>
             </Link>
-          </article>
+          </article> */}
         </section>
-        {/* <section id="two">
+        <section id="">
           <div className="inner">
             <header className="major">
               <h2>Massa libero</h2>
@@ -102,15 +102,15 @@ export default () => (
               libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra
               et feugiat tempus.
             </p>
-            <ul className="actions">
+            {/* <ul className="actions">
               <li>
                 <Link href="/landing">
                   <a className="button next">Get Started</a>
                 </Link>
               </li>
-            </ul>
+            </ul> */}
           </div>
-        </section> */}
+        </section>
       </div>
     </div>
   </Layout>
