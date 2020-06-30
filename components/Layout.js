@@ -3,7 +3,7 @@ import stylesheet from 'styles/main.scss'
 
 import Header from './Header'
 import Menu from './Menu'
-import Contact from './Contact'
+// import Contact from './Contact'
 import Footer from './Footer'
 import MyForm from './MyForm'
 
@@ -40,7 +40,7 @@ class Layout extends React.Component {
             <div className={`body ${this.state.loading} ${this.state.isMenuVisible ? 'is-menu-visible' : ''}`}>
                 <Head>
                     <title>Stacy Holtz</title>
-                    <meta name="description" content="Front End Developer" />
+                    <meta name="description" content="Full Stack Developer" />
                     <link href="/static/css/skel.css" rel="stylesheet" />
                     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
                     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet" />
