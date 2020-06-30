@@ -8,7 +8,7 @@ const Banner = (props) => (
             </a>
          
             <div className="content">
-                <p>Front End Developer</p>
+                <p>Full Stack Developer - Specializing in React, ES6 & JS</p>
                 <ul className="actions">
                     <li><a href="#two" className="button next scrolly">Contact</a></li>
                 </ul>

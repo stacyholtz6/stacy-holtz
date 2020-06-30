@@ -4,7 +4,7 @@ import Link from 'next/link'
 const Header = (props) => (
     <header id="header" className="alt">
         <Link href="/">
-            <a className="logo"><strong>Stacy</strong> <span>Front End Developer</span></a>
+            <a className="logo"><strong>Stacy</strong> <span>Full Stack Developer</span></a>
         </Link>
         {/* <nav>
             <a className="menu-link" onClick={props.onToggleMenu} href="javascript:;">Menu</a>
