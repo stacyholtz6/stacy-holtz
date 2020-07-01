@@ -90,16 +90,10 @@ export default () => (
         <section id="">
           <div className="inner">
             <header className="major">
-              <h2>Massa libero</h2>
+              <h2>Web Developer - Business Consultant</h2>
             </header>
             <p>
-              Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-              libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-              Pellentesque condimentum sem. In efficitur ligula tate urna.
-              Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-              Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-              libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra
-              et feugiat tempus.
+              I am web web developer and business consultant with a background in business management. I have a passion for helping others with the website design and build. I specialize in React, Wordpress and static sites built from scratch. Contact me for more information. 
             </p>
             {/* <ul className="actions">
               <li>
