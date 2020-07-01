@@ -47,11 +47,16 @@ export default () => (
           >
             <header className="major">
               <h3>Friend Finder</h3>
-              <p>This fun survey matches you up with a workout friend. It is built with Express, Javascript, and Node.js</p>
+              <p>
+                This fun survey matches you up with a workout friend. It is
+                built with Express, Javascript, and Node.js
+              </p>
             </header>
-            <a className="link primary"
+            <a
+              className="link primary"
               href="https://github.com/stacyholtz6/FriendFinder"
-              target="_blank"></a>
+              target="_blank"
+            ></a>
           </article>
           <article
             style={{ backgroundImage: `url('/static/images/weather.jpeg')` }}
@@ -60,9 +65,11 @@ export default () => (
               <h3>Weath App</h3>
               <p>Weather app build with REACT and REACT HOOKS</p>
             </header>
-            <a className="link primary"
+            <a
+              className="link primary"
               href="https://weather-react-co.herokuapp.com/"
-              target="_blank"></a>
+              target="_blank"
+            ></a>
           </article>
           {/* <article
             style={{ backgroundImage: `url('/static/images/pic05.jpg')` }}
@@ -90,11 +97,18 @@ export default () => (
         <section id="">
           <div className="inner">
             <header className="major">
-              <h2>Web Developer - Business Consultant</h2>
+              <div>
+                <h2 className="no-margin">Web Developer</h2>
+                <h2>& Business Consultant</h2>
+              </div>
             </header>
             <p>
-              I am web web developer and business consultant with a background in business management. I have a passion for helping others with the website design and build. I specialize in React, Wordpress and static sites built from scratch. Contact me for more information. 
+              I have a passion for helping others with website design and
+              creation. Using my experience and expertise as full stack web
+              developer, I create solutions that my clients love. I specialize
+              in React/Node apps, Wordpress and static sites built from scratch.
             </p>
+            <p> Contact me for more information to start a project or hire me.</p>
             {/* <ul className="actions">
               <li>
                 <Link href="/landing">
