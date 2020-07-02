@@ -62,7 +62,7 @@ export default () => (
             style={{ backgroundImage: `url('/static/images/weather.jpeg')` }}
           >
             <header className="major">
-              <h3>Weath App</h3>
+              <h3>React Weather App</h3>
               <p>Weather app build with REACT and REACT HOOKS</p>
             </header>
             <a
