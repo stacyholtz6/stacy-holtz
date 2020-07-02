@@ -11,10 +11,10 @@ export default () => (
             style={{ backgroundImage: `url('/static/images/paws.jpeg')` }}
           >
             <header className="major">
-              <h3>Projet Awesome</h3>
+              <h3>Project Awesome</h3>
               <p>
                 A web application designed to help re-home animals located in
-                your area
+                your area.
               </p>
             </header>
             <a
