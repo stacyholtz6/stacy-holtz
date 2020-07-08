@@ -19,7 +19,7 @@ export default () => (
             </header>
             <a
               className="link primary"
-              href="https://github.com/stacyholtz6/projectAwesome"
+              href="http://paws.wtf/"
               target="_blank"
             ></a>
           </article>
@@ -38,7 +38,7 @@ export default () => (
             </header>
             <a
               className="link primary"
-              href="https://github.com/stacyholtz6/U-Travel"
+              href="https://u-travel-dt.herokuapp.com/"
               target="_blank"
             ></a>
           </article>
@@ -54,7 +54,7 @@ export default () => (
             </header>
             <a
               className="link primary"
-              href="https://github.com/stacyholtz6/FriendFinder"
+              href="https://rocky-plateau-65872.herokuapp.com/"
               target="_blank"
             ></a>
           </article>
