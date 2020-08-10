@@ -18,6 +18,14 @@ const Footer = (props) => (
             <span className="label">LinkedIn</span>
           </a>
         </li>
+        <li>
+          <a
+            href="https://twitter.com/thestacyholtz"
+            className="icon alt fa-twitter"
+          >
+            <span className="label">Twitter</span>
+          </a>
+        </li>
       </ul>
       <ul className="copyright">
         <li>&copy; Stacy Holtz 2020</li>
