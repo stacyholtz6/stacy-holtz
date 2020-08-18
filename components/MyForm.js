@@ -16,7 +16,7 @@ export default class MyForm extends React.Component {
   render() {
     const { status } = this.state;
     return (
-      <section id="two">
+      <section id="sayhi">
         <div className="inner">
           <section>
             <form

@@ -1,5 +1,5 @@
 const Contact = (props) => (
-    <section id="two">
+    <section id="sayhi">
         <div className="inner">
             <section>
                 <form method="post" name="contact" >
